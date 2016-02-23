@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<widget xmlns="http://www.w3.org/ns/widgets" xmlns:gap="http://phonegap.com/ns/1.0" version="1.0.0" id="br.com.tldigitaldesigner.cenourapp">
+  <name>Só de Cenoura</name>
+
+  <description>
+    Menu do restaurante Só de Cenoura
+  </description>
+
+  <author href="http://tldigitaldesigner.com.br" email="contato@tldigitaldesigner.com.br">
+    Tiago Lima
+  </author>
+
+  <icon src="icon.png" />
+  <gap:splash src="splash.png" />
+
+  <preference name="orientation" value="portrait" />
+  <preference name="fullscreen" value="true" />
+
+  <gap:platform name="android" />
+
+</widget>
